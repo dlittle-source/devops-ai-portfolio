@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DevOps AI Portfolio
 
-## Getting Started
+Professional DevOps and AI engineering portfolio showcasing cloud deployments, CI/CD automation, Docker infrastructure, and AI-powered applications.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Live Portfolio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://devops-ai-portfolio.vercel.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Overview
 
-## Learn More
+This portfolio website was built to showcase production-ready DevOps, cloud, and AI engineering projects.
 
-To learn more about Next.js, take a look at the following resources:
+The site highlights:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- AWS deployment projects
+- Dockerized infrastructure
+- CI/CD automation workflows
+- AI-powered applications
+- Modern frontend engineering with Next.js
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Featured Projects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### AI DevOps Error Analyzer
+AI-powered troubleshooting platform that analyzes DevOps and cloud infrastructure errors using OpenAI integrations, Dockerized deployments, and production-ready backend services.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Docker + Nginx AWS Deployment
+Production-style AWS deployment project using Docker containers, Nginx reverse proxy configuration, SSL, Linux administration, and deployment validation workflows.
+
+### CI/CD Deployment Pipeline
+Automated GitHub Actions deployment pipeline with rollback support, deployment health validation, Docker workflows, and infrastructure automation.
+
+---
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+- AWS
+- Docker
+- GitHub Actions
+- Linux
+- OpenAI API
+- Vercel
+
+---
+
+## Deployment
+
+The application is deployed on Vercel.
+
+---
+
+## Author
+
+Demarko Little
+
+GitHub:
+https://github.com/dlittle-source
