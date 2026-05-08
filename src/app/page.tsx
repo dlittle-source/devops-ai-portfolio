@@ -149,7 +149,7 @@ export default function Home() {
                   </div>
                 </div>
 
-                <div className="flex flex-wrap gap-4">
+                <div className="flex flex-wrap gap-4 lg:justify-end">
                   <a
                     href="https://github.com/dlittle-source/ai-devops-error-analyzer-frontend"
                     target="_blank"
@@ -164,6 +164,13 @@ export default function Home() {
                     className="rounded-xl border border-slate-700 px-6 py-3 font-semibold text-white transition hover:border-cyan-400 hover:text-cyan-300"
                   >
                     Live Demo
+                  </a>
+
+                  <a
+                    href="/case-studies/ai-devops-error-analyzer"
+                    className="rounded-xl border border-cyan-400 px-6 py-3 font-semibold text-cyan-300 transition hover:bg-cyan-400 hover:text-slate-950"
+                  >
+                    Case Study
                   </a>
                 </div>
               </div>
